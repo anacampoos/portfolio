@@ -1,6 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+link: index.html
 ---
+
+<p>Hello, my name is Ana. I am a designer from Coimbra (Portugal) currently studying Digital Experience Design in Lisbon. I have a bachelor degree in Communication Design and I'm hoping to find a job tat allows me to learn and develop skills.</p>
