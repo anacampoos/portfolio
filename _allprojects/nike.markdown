@@ -1,8 +1,7 @@
 ---
 title:  "Nike Run Club - Virtual Races"
 image-src: assets/img/nike.png
-image-alt: mockup of landing page for desktop
-category: University Work
+image-alt: cover image
 permalink: nike
 ---
 
