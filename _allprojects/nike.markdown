@@ -1,6 +1,8 @@
 ---
 layout: project
 title:  "Nike Project"
+image-src: assets/img/fbaul.png
+image-alt: mockup of landing page for desktop
 category: University Work
 ---
 

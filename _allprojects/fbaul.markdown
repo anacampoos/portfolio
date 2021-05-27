@@ -1,7 +1,5 @@
 ---
 title:  Rethinking FBAUL's website - Erasmus Students Incoming
-link: fbaulproject.html
-link-title: Rethinking FBAUL's website
 image-src: assets/img/fbaul.png
 image-alt: mockup of landing page for desktop
 category: University Work

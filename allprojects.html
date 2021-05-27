@@ -1,0 +1,11 @@
+---
+layout: allprojects
+title: Work
+---
+
+{% for project in site.allprojects %}
+    <div>
+        <p><img src="{{ project.image_path }}" alt="{{ project.title }}" /></p>
+        {{ project.content }}
+    </div>
+{% endfor %}
