@@ -32,3 +32,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  contacts:
+    output: true
+  allprojects:
+    output: true

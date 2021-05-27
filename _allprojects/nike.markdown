@@ -1,9 +1,9 @@
 ---
-layout: project
-title:  "Nike Project"
-image-src: assets/img/fbaul.png
+title:  "Nike Run Club - Virtual Races"
+image-src: assets/img/nike.png
 image-alt: mockup of landing page for desktop
 category: University Work
+permalink: nike
 ---
 
 <h1>{{ page.title }}</h1>
