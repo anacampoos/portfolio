@@ -14,5 +14,3 @@ title: Contacts
       </li>
    {% endfor %}
 </ul>>
-
-  {% include contacts.html %}
