@@ -64,11 +64,11 @@ title:  Rethinking FBAUL's website - Erasmus Students Incoming
  <h3>Mockups</h3>
 
  <figure>
-    <img src="assets/img/fbaulmockup1.png" alt="competing institution website pages">
+    <img src="assets/img/fbaulmockup1.jpg" alt="competing institution website pages">
  </figure>
 
   <figure>
-    <img src="assets/img/fbaulmockup2.png" alt="competing institution website pages">
+    <img src="assets/img/fbaulmockup2.jpg" alt="competing institution website pages">
  </figure>
 
 <div>

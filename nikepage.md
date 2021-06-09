@@ -27,10 +27,10 @@ title:  Nike Run Club - Virtual Races
 </div>
 <div>
     <figure>
-        <img src="assets/img/nikemockup1.png" alt="app mockup">
+        <img src="assets/img/nikemockup1.jpg" alt="app mockup">
     </figure>
     <figure>
-        <img src="assets/img/nikemockup2.png" alt="app mockup">
+        <img src="assets/img/nikemockup2.jpg" alt="app mockup">
     </figure>
 </div>
 
