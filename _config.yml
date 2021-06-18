@@ -38,6 +38,3 @@ collections:
     output: true
   allprojects:
     output: true
-
-sass:
-  sass_dir: _sass
