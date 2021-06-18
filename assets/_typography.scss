@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;0,800;1,400;1,600&display=swap');
+
+@mixin font {
+    font-family: 'Montserrat', sans-serif;
+    color: $text-color;
+}
+
+@mixin h1 {
+    @include font();
+    font-size: 80px;
+    line-height: auto;
+    font-weight: 800;
+}
+
+@mixin h2 {
+    @include font();
+    font-size: 48px;
+    line-height: auto;
+    font-weight: 600;
+}
+
+@mixin h3 {
+    @include font();
+    font-size: 32px;
+    line-height: auto;
+    font-weight: 400;
+}
+
+@mixin h4 {
+    @include font();
+    font-size: 24px;
+    line-height: auto;
+    font-weight: 400;
+}
+
+
+@mixin p {
+    @include font();
+    font-size: 24px;
+    line-height: auto;
+    font-weight: 400;
+}
